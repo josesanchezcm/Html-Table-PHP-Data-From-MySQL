@@ -1,0 +1,41 @@
+.blanco{
+    
+    background-color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+table#usuarios {
+    font-size:16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+#usuarios tr {
+    width: 100%;
+    
+}
+#usuarios td, #usuarios th {
+    border: 1px solid #ddd;
+    text-align: center;
+    /*line-height: 30px;*/
+    padding: 15px;
+}
+
+#usuarios tr:nth-child(even){background-color: #f2f2f2}
+
+#usuarios th {
+    /*padding-top: 11px;
+    padding-bottom: 11px;*/
+    background-color: #AF4C4C;
+    color: white;
+}
+
+#usuarios td {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: black;
+}
