@@ -8,6 +8,6 @@ Con esto puedes realisar una tabla de tus datos con Mysql y Php
 
 Adjunto imagenes de la pagina
 
-![image](https://goo.gl/pQuiVP)
-![image](https://goo.gl/oyUD17)
+![image](https://lh6.googleusercontent.com/WVVluqmmufCMvPzhHsPoaUT3cArnDnf_ZHKCyoGZjGhS6brWn08NMJX5lbyEWdzFLa1N3Y22IICoKw=w2560-h1264-rw)
+![image](https://lh4.googleusercontent.com/0sjx2e889H2p0QdaloTDG2sw2LTB9bei-qY3IxE4dyJCqkygAXSji2_0kOXcn8kSVLrczw65e42MsA=w2560-h1264-rw)
 
